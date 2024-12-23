@@ -1,0 +1,9 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+!example.tfvars
+.terraform.lock.hcl
+*.log
+*.mod
+*.sum
